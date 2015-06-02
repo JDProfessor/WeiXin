@@ -12,7 +12,7 @@ sendMsg     	模块 :发送信息类.
 					1.SendText  :发送文字信息
 					2.SendImage :发送图片信息
 					
-upload			模块 :上传图片,获取media_id.
+upload			模块 :上传图片(大于1M将其压缩),获取media_id.
 
 token.txt		 : 记录获取的token
 
