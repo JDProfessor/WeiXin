@@ -14,5 +14,7 @@ sendMsg     	模块 :发送信息类.
 					
 upload			模块 :上传图片(大于1M将其压缩),获取media_id.
 
+menuInterface	模块 ：自定义客户端底部菜单
+
 token.txt		 : 记录获取的token
 
